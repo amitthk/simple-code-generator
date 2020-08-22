@@ -1,4 +1,4 @@
-package pl.openaim.simplecodegenerator;
+package com.boot.simplecodegenerator;
 
 import java.io.BufferedReader;
 import java.io.File;

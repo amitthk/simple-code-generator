@@ -1,4 +1,4 @@
-package pl.openaim.simplecodegenerator;
+package com.boot.simplecodegenerator;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
